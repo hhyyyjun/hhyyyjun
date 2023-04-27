@@ -1,6 +1,6 @@
 <h2 align="center">Hi Im Beginner 👋</h2>
 <h3 align="center">WELCOME My Blog</h3>
-<p align="center"><a href="https://blog.naver.com/jun950617/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://developer-sudal.tistory.com/"/></a>
+<p align="center"><a href="https://hhyyyjun.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://developer-sudal.tistory.com/"/></a>
 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhyyyjun&show_icons=true&theme=radical)
